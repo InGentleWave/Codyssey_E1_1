@@ -17,7 +17,7 @@
 
 ## 1. 제출 저장소 및 기술 문서
 ### 기능 요구사항
-- [x] GitHub Repository 생성 (공개 또는 규칙 준수)
+- [x] [GitHub Repository 생성 (공개 또는 규칙 준수)](https://github.com/InGentleWave/Codyssey_E1_1_Dev_Set-up_practice)
 - [x] [README.md 작성 (프로젝트 개요 포함)](./README.md#Codyssey-Dev-Set-up-practice)
 - [ ] 실행 환경 정보 기록 (OS/쉘/Docker/Git 버전)
 - [ ] 수행 항목 체크리스트 포함
