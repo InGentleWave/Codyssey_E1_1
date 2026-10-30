@@ -26,10 +26,10 @@
 - Shell :
 - Docker : 
 - Git :
-- 
+
+[목차](#목차)
+
 ## 수행 항목 체크리스트
-
-
 ### 1. 제출 저장소 및 기술 문서
 #### 기능 요구사항
 - [ ] GitHub Repository 생성 (공개 또는 규칙 준수)
@@ -249,8 +249,8 @@
 - [ ] 네트워크 통신 확인 로그 포함
 - [ ] 환경 변수 변경 전/후 비교 기록
 - [ ] SSH 푸시 성공 로그 기록
-First repository studying about cli, Docker, Git
 
+[목차](#목차) 
 <!--
 이미지 넣는 방법
 ![image](https://github.com/user-attachments/assets/0215478d-ca4c-4371-bdef-103a8e36bdee)
