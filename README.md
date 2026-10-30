@@ -1,4 +1,4 @@
-# Codyssey Dev Set-up
+# Codyssey Dev Set-up practice
 ## 목차
 - [개요](#개요)
 - [실행 환경](#실행-환경)
